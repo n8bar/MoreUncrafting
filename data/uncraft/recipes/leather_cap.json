@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:leather_helmet"
+		}
+	],
+	"result": {
+		"item": "minecraft:leather",
+		"count": 5
+	}
+}

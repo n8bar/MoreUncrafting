@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "uncraft_shield": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "uncraft:iron_ingot"
+      }
+    }
+  },
+  "rewards": {
+    "function": "uncraft:shield"
+  }
+}
