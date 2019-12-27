@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:golden_hoe"
+    },
+    "result": "minecraft:light_weighted_pressure_plate",
+    "experience": 1365,
+    "cookingtime": 60
+}
