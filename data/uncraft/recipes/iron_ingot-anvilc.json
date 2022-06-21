@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:damaged_anvil"
+		}
+	],
+	"result": {
+		"item": "minecraft:anvil",
+		"count": 1
+	}
+}

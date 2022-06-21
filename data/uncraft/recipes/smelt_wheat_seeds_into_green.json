@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:wheat_seeds"
+    },
+    "result": "minecraft:green_dye",
+    "experience": 1365,
+    "cookingtime": 60
+}

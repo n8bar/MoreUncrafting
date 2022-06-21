@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:cake"
+		}
+	],
+	"result": {
+		"item": "minecraft:egg",
+		"count": 1
+	}
+}
