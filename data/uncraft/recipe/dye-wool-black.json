@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:black_wool"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:ink_sac"
+    },
+    "group": "uncraft-dye-stuffs"
+}

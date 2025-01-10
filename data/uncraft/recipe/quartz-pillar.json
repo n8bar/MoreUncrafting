@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:quartz_pillar"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:quartz_block"
+    },
+    "group": "uncraft-pillar"
+}

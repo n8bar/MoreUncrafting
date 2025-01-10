@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:white_concrete_powder"
+        ],
+        [
+            "minecraft:white_concrete_powder"
+        ],
+        [
+            "minecraft:white_concrete_powder"
+        ],
+        [
+            "minecraft:white_concrete_powder"
+        ],
+        [
+            "minecraft:white_concrete_powder"
+        ],
+        [
+            "minecraft:white_concrete_powder"
+        ],
+        [
+            "minecraft:white_concrete_powder"
+        ],
+        [
+            "minecraft:white_concrete_powder"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:bone_meal"
+    },
+    "group": "uncraft-dye-stuffs"
+}

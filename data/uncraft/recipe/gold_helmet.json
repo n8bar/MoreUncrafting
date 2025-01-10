@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:golden_helmet"
+        ]
+    ],
+    "result": {
+        "count": 5,
+        "id": "minecraft:gold_ore"
+    }
+}

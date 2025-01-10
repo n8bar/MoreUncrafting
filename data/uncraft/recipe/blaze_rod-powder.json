@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " # ",
+        "#  "
+    ],
+    "key": {
+        "#": [
+            "minecraft:blaze_powder"
+        ]
+    },
+    "result": {
+        "count": 1,
+        "id": "minecraft:blaze_rod"
+    },
+    "group": "blaze_rod"
+}

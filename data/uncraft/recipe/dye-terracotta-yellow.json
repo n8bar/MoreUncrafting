@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:yellow_terracotta"
+        ],
+        [
+            "minecraft:yellow_terracotta"
+        ],
+        [
+            "minecraft:yellow_terracotta"
+        ],
+        [
+            "minecraft:yellow_terracotta"
+        ],
+        [
+            "minecraft:yellow_terracotta"
+        ],
+        [
+            "minecraft:yellow_terracotta"
+        ],
+        [
+            "minecraft:yellow_terracotta"
+        ],
+        [
+            "minecraft:yellow_terracotta"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:yellow_dye"
+    },
+    "group": "uncraft-dye-stuffs"
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:leather_leggings"
+        ]
+    ],
+    "result": {
+        "count": 7,
+        "id": "minecraft:leather"
+    }
+}

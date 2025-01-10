@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:clock"
+        ]
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:gold_ingot"
+    },
+    "group": "gold_ingot"
+}

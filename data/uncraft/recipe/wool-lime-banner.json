@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:lime_banner"
+        ]
+    ],
+    "result": {
+        "count": 6,
+        "id": "minecraft:lime_wool"
+    },
+    "group": "uncraft-banner-bed-painting"
+}

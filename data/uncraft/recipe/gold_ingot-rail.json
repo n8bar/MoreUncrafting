@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:powered_rail"
+        ],
+        [
+            "minecraft:powered_rail"
+        ],
+        [
+            "minecraft:powered_rail"
+        ],
+        [
+            "minecraft:powered_rail"
+        ],
+        [
+            "minecraft:powered_rail"
+        ],
+        [
+            "minecraft:powered_rail"
+        ]
+    ],
+    "result": {
+        "count": 6,
+        "id": "minecraft:gold_ingot"
+    },
+    "group": "gold_ingot"
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:dandelion"
+        ],
+        [
+            "minecraft:dandelion"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:sunflower"
+    },
+    "group": "uncraft-single-dye"
+}

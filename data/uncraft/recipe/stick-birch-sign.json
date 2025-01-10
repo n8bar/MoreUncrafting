@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:birch_sign"
+        ],
+        [
+            "minecraft:birch_sign"
+        ],
+        [
+            "minecraft:birch_sign"
+        ]
+    ],
+    "result": {
+        "count": 13,
+        "id": "minecraft:stick"
+    },
+    "group": "stick"
+}

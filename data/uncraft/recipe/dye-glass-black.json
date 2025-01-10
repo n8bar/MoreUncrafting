@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:black_stained_glass"
+        ],
+        [
+            "minecraft:black_stained_glass"
+        ],
+        [
+            "minecraft:black_stained_glass"
+        ],
+        [
+            "minecraft:black_stained_glass"
+        ],
+        [
+            "minecraft:black_stained_glass"
+        ],
+        [
+            "minecraft:black_stained_glass"
+        ],
+        [
+            "minecraft:black_stained_glass"
+        ],
+        [
+            "minecraft:black_stained_glass"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:ink_sac"
+    },
+    "group": "uncraft-dye-stuffs"
+}

@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:gray_terracotta"
+        ],
+        [
+            "minecraft:gray_terracotta"
+        ],
+        [
+            "minecraft:gray_terracotta"
+        ],
+        [
+            "minecraft:gray_terracotta"
+        ],
+        [
+            "minecraft:gray_terracotta"
+        ],
+        [
+            "minecraft:gray_terracotta"
+        ],
+        [
+            "minecraft:gray_terracotta"
+        ],
+        [
+            "minecraft:gray_terracotta"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:gray_dye"
+    },
+    "group": "uncraft-dye-stuffs"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:brown_wool"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:cocoa_beans"
+    },
+    "group": "uncraft-dye-stuffs"
+}

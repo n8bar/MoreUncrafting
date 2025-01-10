@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:torch"
+        ],
+        [
+            "minecraft:torch"
+        ],
+        [
+            "minecraft:torch"
+        ],
+        [
+            "minecraft:torch"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:coal"
+    },
+    "group": "coal"
+}

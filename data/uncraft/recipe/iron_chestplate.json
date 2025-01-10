@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:iron_chestplate"
+        ]
+    ],
+    "result": {
+        "count": 8,
+        "id": "minecraft:iron_ore"
+    }
+}

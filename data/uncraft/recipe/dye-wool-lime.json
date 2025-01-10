@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:lime_wool"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:lime_dye"
+    },
+    "group": "uncraft-dye-stuffs"
+}

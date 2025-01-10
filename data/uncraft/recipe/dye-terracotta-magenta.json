@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:magenta_terracotta"
+        ],
+        [
+            "minecraft:magenta_terracotta"
+        ],
+        [
+            "minecraft:magenta_terracotta"
+        ],
+        [
+            "minecraft:magenta_terracotta"
+        ],
+        [
+            "minecraft:magenta_terracotta"
+        ],
+        [
+            "minecraft:magenta_terracotta"
+        ],
+        [
+            "minecraft:magenta_terracotta"
+        ],
+        [
+            "minecraft:magenta_terracotta"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:magenta_dye"
+    },
+    "group": "uncraft-dye-stuffs"
+}

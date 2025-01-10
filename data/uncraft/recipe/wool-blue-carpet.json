@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:blue_carpet"
+        ],
+        [
+            "minecraft:blue_carpet"
+        ],
+        [
+            "minecraft:blue_carpet"
+        ]
+    ],
+    "result": {
+        "count": 2,
+        "id": "minecraft:blue_wool"
+    },
+    "group": "uncraft-carpet"
+}

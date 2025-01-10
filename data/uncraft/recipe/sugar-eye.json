@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:fermented_spider_eye"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:sugar"
+    },
+    "group": "sugar"
+}

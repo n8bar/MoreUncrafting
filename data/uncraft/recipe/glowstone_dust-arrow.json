@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:spectral_arrow"
+        ],
+        [
+            "minecraft:spectral_arrow"
+        ]
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:glowstone_dust"
+    },
+    "group": "uncraft-arrow-stuffs"
+}

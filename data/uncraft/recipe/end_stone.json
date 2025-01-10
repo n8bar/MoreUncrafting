@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:end_stone_bricks"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:end_stone"
+    }
+}

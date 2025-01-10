@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:conduit"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:heart_of_the_sea"
+    },
+    "group": "heart_of_the_sea"
+}

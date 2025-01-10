@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:brown_stained_glass"
+        ],
+        [
+            "minecraft:brown_stained_glass"
+        ],
+        [
+            "minecraft:brown_stained_glass"
+        ],
+        [
+            "minecraft:brown_stained_glass"
+        ],
+        [
+            "minecraft:brown_stained_glass"
+        ],
+        [
+            "minecraft:brown_stained_glass"
+        ],
+        [
+            "minecraft:brown_stained_glass"
+        ],
+        [
+            "minecraft:brown_stained_glass"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:cocoa_beans"
+    },
+    "group": "uncraft-dye-stuffs"
+}

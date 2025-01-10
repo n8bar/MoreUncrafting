@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:crafting_table"
+        ]
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:oak_planks"
+    },
+    "group": "oak_planks"
+}

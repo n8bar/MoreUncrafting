@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:green_wool"
+        ],
+        [
+            "minecraft:green_wool"
+        ],
+        [
+            "minecraft:green_wool"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:green_dye"
+    },
+    "group": "uncraft-dye-stuffs"
+}

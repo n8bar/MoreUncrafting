@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:red_dye"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:poppy"
+    },
+    "group": "uncraft-single-dye"
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:oak_wood"
+        ],
+        [
+            "minecraft:oak_wood"
+        ],
+        [
+            "minecraft:oak_wood"
+        ]
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:oak_log"
+    },
+    "group": "oak_log"
+}

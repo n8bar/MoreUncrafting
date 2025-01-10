@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:light_gray_bed"
+        ]
+    ],
+    "result": {
+        "count": 3,
+        "id": "minecraft:light_gray_wool"
+    },
+    "group": "uncraft-banner-bed-painting"
+}

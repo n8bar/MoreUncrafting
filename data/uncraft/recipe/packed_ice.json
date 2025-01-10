@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:blue_ice"
+        ]
+    ],
+    "result": {
+        "count": 9,
+        "id": "minecraft:packed_ice"
+    },
+    "group": "packed_ice"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:purpur_block"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:popped_chorus_fruit"
+    },
+    "group": "popped_chorus_fruit"
+}

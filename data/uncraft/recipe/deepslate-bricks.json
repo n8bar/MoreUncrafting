@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:deepslate_bricks"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:polished_deepslate"
+    },
+    "group": "polished_deepslate"
+}

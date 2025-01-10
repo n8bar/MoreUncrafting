@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:pink_terracotta"
+        ],
+        [
+            "minecraft:pink_terracotta"
+        ],
+        [
+            "minecraft:pink_terracotta"
+        ],
+        [
+            "minecraft:pink_terracotta"
+        ],
+        [
+            "minecraft:pink_terracotta"
+        ],
+        [
+            "minecraft:pink_terracotta"
+        ],
+        [
+            "minecraft:pink_terracotta"
+        ],
+        [
+            "minecraft:pink_terracotta"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:pink_dye"
+    },
+    "group": "uncraft-dye-stuffs"
+}

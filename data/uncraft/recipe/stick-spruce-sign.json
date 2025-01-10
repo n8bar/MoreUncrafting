@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:spruce_sign"
+        ],
+        [
+            "minecraft:spruce_sign"
+        ],
+        [
+            "minecraft:spruce_sign"
+        ]
+    ],
+    "result": {
+        "count": 13,
+        "id": "minecraft:stick"
+    },
+    "group": "stick"
+}

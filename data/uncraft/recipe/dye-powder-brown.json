@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:brown_concrete_powder"
+        ],
+        [
+            "minecraft:brown_concrete_powder"
+        ],
+        [
+            "minecraft:brown_concrete_powder"
+        ],
+        [
+            "minecraft:brown_concrete_powder"
+        ],
+        [
+            "minecraft:brown_concrete_powder"
+        ],
+        [
+            "minecraft:brown_concrete_powder"
+        ],
+        [
+            "minecraft:brown_concrete_powder"
+        ],
+        [
+            "minecraft:brown_concrete_powder"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:cocoa_beans"
+    },
+    "group": "uncraft-dye-stuffs"
+}

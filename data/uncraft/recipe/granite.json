@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:polished_granite"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:granite"
+    },
+    "group": "stone"
+}

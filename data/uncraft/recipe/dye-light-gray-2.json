@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:light_gray_dye"
+        ],
+        [
+            "minecraft:light_gray_dye"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:gray_dye"
+    },
+    "group": "uncraft-dye-stuffs"
+}

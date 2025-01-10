@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:stone"
+        ],
+        [
+            "minecraft:stone"
+        ],
+        [
+            "minecraft:stone"
+        ],
+        [
+            "minecraft:stone"
+        ],
+        [
+            "minecraft:stone"
+        ],
+        [
+            "minecraft:stone"
+        ],
+        [
+            "minecraft:stone"
+        ],
+        [
+            "minecraft:stone"
+        ],
+        [
+            "minecraft:stone"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:deepslate"
+    },
+    "group": "deepslate"
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:firework_rocket"
+        ],
+        [
+            "minecraft:firework_rocket"
+        ],
+        [
+            "minecraft:firework_rocket"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:paper"
+    },
+    "group": "paper"
+}

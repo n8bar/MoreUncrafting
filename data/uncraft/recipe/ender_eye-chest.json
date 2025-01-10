@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:ender_chest"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:ender_eye"
+    },
+    "group": "ender_eye"
+}

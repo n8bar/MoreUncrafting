@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:orange_dye"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:orange_tulip"
+    },
+    "group": "uncraft-single-dye"
+}

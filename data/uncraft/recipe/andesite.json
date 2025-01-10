@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:polished_andesite"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:andesite"
+    },
+    "group": "stone"
+}

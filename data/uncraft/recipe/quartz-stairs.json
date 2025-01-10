@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:quartz_stairs"
+        ]
+    ],
+    "result": {
+        "count": 6,
+        "id": "minecraft:quartz"
+    },
+    "group": "quartz"
+}

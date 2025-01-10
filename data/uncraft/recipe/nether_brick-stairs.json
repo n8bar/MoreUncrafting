@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:nether_brick_stairs"
+        ]
+    ],
+    "result": {
+        "count": 6,
+        "id": "minecraft:nether_brick"
+    },
+    "group": "nether_brick"
+}

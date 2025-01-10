@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:light_gray_dye"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:azure_bluet"
+    },
+    "group": "uncraft-single-dye"
+}

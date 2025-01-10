@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:paper"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:sugar_cane"
+    },
+    "group": "sugar_cane"
+}

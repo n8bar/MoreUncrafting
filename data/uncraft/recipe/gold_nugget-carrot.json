@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:golden_carrot"
+        ]
+    ],
+    "result": {
+        "count": 8,
+        "id": "minecraft:gold_nugget"
+    },
+    "group": "gold_nugget"
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        " _ ",
+        " _ "
+    ],
+    "key": {
+        "_": [
+            "minecraft:prismarine_brick_slab"
+        ]
+    },
+    "result": {
+        "count": 1,
+        "id": "minecraft:prismarine_bricks"
+    },
+    "group": "prismarine_bricks"
+}

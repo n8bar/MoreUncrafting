@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:redstone_lamp"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:glowstone"
+    },
+    "group": "glowstone"
+}

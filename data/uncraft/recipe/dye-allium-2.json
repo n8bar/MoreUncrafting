@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:allium"
+        ],
+        [
+            "minecraft:allium"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:lilac"
+    },
+    "group": "uncraft-single-dye"
+}

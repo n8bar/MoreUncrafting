@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:cyan_wool"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:cyan_dye"
+    },
+    "group": "uncraft-dye-stuffs"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:glass_bottle"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:glass"
+    },
+    "group": "glass"
+}

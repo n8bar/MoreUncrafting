@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:red_mushroom"
+        ],
+        [
+            "minecraft:red_mushroom"
+        ],
+        [
+            "minecraft:red_mushroom"
+        ],
+        [
+            "minecraft:red_mushroom"
+        ],
+        [
+            "minecraft:red_mushroom"
+        ],
+        [
+            "minecraft:red_mushroom"
+        ],
+        [
+            "minecraft:red_mushroom"
+        ],
+        [
+            "minecraft:red_mushroom"
+        ],
+        [
+            "minecraft:red_mushroom"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:red_mushroom_block"
+    },
+    "group": "stone_bricks"
+}

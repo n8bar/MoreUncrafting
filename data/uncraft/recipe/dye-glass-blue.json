@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:blue_stained_glass"
+        ],
+        [
+            "minecraft:blue_stained_glass"
+        ],
+        [
+            "minecraft:blue_stained_glass"
+        ],
+        [
+            "minecraft:blue_stained_glass"
+        ],
+        [
+            "minecraft:blue_stained_glass"
+        ],
+        [
+            "minecraft:blue_stained_glass"
+        ],
+        [
+            "minecraft:blue_stained_glass"
+        ],
+        [
+            "minecraft:blue_stained_glass"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:lapis_lazuli"
+    },
+    "group": "uncraft-dye-stuffs"
+}

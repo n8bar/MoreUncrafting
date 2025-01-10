@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:end_rod"
+        ],
+        [
+            "minecraft:end_rod"
+        ],
+        [
+            "minecraft:end_rod"
+        ],
+        [
+            "minecraft:end_rod"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:blaze_rod"
+    },
+    "group": "blaze_rod"
+}

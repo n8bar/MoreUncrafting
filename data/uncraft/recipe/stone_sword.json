@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": [
+        "minecraft:stone_sword"
+    ],
+    "result": {
+        "id": "minecraft:stone_pressure_plate"
+    },
+    "experience": 1365,
+    "cookingtime": 6
+}

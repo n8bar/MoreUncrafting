@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:hopper"
+        ]
+    ],
+    "result": {
+        "count": 5,
+        "id": "minecraft:iron_ingot"
+    },
+    "group": "iron_ingot"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:birch_button"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:birch_planks"
+    },
+    "group": "birch_planks"
+}

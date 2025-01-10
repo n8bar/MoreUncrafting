@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:polished_diorite"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:diorite"
+    },
+    "group": "stone"
+}

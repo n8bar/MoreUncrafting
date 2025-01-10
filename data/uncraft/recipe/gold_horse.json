@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:golden_horse_armor"
+        ]
+    ],
+    "result": {
+        "count": 6,
+        "id": "minecraft:gold_ore"
+    }
+}

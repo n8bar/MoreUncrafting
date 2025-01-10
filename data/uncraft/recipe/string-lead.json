@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:lead"
+        ],
+        [
+            "minecraft:lead"
+        ]
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:string"
+    },
+    "group": "string"
+}

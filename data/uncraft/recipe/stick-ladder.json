@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:ladder"
+        ],
+        [
+            "minecraft:ladder"
+        ],
+        [
+            "minecraft:ladder"
+        ]
+    ],
+    "result": {
+        "count": 7,
+        "id": "minecraft:stick"
+    },
+    "group": "stick"
+}

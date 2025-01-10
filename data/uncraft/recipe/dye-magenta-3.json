@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:magenta_dye"
+        ],
+        [
+            "minecraft:magenta_dye"
+        ],
+        [
+            "minecraft:magenta_dye"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:pink_dye"
+    },
+    "group": "uncraft-dyes"
+}

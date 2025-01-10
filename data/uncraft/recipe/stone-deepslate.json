@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:deepslate"
+        ]
+    ],
+    "result": {
+        "count": 9,
+        "id": "minecraft:stone"
+    },
+    "group": "deepslate"
+}

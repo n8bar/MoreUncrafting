@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:ender_eye"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:blaze_powder"
+    },
+    "group": "blaze_powder"
+}

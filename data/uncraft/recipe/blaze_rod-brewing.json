@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:brewing_stand"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:blaze_rod"
+    },
+    "group": "blaze_rod"
+}

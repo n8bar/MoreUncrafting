@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:tripwire_hook"
+        ],
+        [
+            "minecraft:tripwire_hook"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:iron_ingot"
+    },
+    "group": "iron_ingot"
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:jungle_wood"
+        ],
+        [
+            "minecraft:jungle_wood"
+        ],
+        [
+            "minecraft:jungle_wood"
+        ]
+    ],
+    "result": {
+        "count": 4,
+        "id": "minecraft:jungle_log"
+    },
+    "group": "jungle_log"
+}

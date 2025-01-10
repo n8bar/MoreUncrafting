@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:chainmail_helmet"
+        ]
+    ],
+    "result": {
+        "count": 5,
+        "id": "minecraft:leather"
+    }
+}

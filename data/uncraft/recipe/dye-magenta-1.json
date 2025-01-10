@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:magenta_dye"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:allium"
+    },
+    "group": "uncraft-single-dye"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:tnt_minecart"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:tnt"
+    },
+    "group": "tnt"
+}

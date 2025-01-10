@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:light_blue_dye"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:blue_orchid"
+    },
+    "group": "uncraft-single-dye"
+}

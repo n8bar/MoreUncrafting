@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:iron_helmet"
+        ]
+    ],
+    "result": {
+        "count": 5,
+        "id": "minecraft:iron_ore"
+    }
+}

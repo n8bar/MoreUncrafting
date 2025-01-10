@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:piston"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:iron_ingot"
+    },
+    "group": "iron_ingot"
+}

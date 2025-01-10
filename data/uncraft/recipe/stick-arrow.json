@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:arrow"
+        ],
+        [
+            "minecraft:arrow"
+        ],
+        [
+            "minecraft:arrow"
+        ],
+        [
+            "minecraft:arrow"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:stick"
+    },
+    "group": "uncraft-arrow-stuffs"
+}

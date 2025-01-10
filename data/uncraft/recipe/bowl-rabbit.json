@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:rabbit_stew"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:bowl"
+    },
+    "group": "bowl"
+}

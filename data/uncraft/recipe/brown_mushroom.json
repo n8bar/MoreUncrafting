@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:brown_mushroom_block"
+        ]
+    ],
+    "result": {
+        "count": 9,
+        "id": "minecraft:brown_mushroom"
+    },
+    "group": "stone_bricks"
+}

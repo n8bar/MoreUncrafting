@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:blue_concrete_powder"
+        ],
+        [
+            "minecraft:blue_concrete_powder"
+        ],
+        [
+            "minecraft:blue_concrete_powder"
+        ],
+        [
+            "minecraft:blue_concrete_powder"
+        ],
+        [
+            "minecraft:blue_concrete_powder"
+        ],
+        [
+            "minecraft:blue_concrete_powder"
+        ],
+        [
+            "minecraft:blue_concrete_powder"
+        ],
+        [
+            "minecraft:blue_concrete_powder"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:lapis_lazuli"
+    },
+    "group": "uncraft-dye-stuffs"
+}

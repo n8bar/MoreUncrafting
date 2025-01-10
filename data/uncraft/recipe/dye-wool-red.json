@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:red_wool"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:red_dye"
+    },
+    "group": "uncraft-dye-stuffs"
+}
