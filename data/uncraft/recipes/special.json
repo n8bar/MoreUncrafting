@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:infested_chiseled_stone_bricks"
+    }
+  ],
+  "result": {
+    "item": "minecraft:player_head",
+    "count": 1
+  }
+}

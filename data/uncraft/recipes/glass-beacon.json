@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:beacon"
+    }
+  ],
+  "result": {
+    "item": "minecraft:glass",
+    "count": 5
+  },
+  "group": "glass"
+}

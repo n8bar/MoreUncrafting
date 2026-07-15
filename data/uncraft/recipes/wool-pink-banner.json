@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:pink_banner"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pink_wool",
+    "count": 6
+  },
+  "group": "uncraft-banner-bed-painting"
+}

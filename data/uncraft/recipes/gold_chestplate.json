@@ -1,12 +1,12 @@
 {
-    "type": "crafting_shapeless",
-	"ingredients": [
-		{
-			"item": "minecraft:golden_chestplate"
-		}
-	],
-	"result": {
-		"item": "minecraft:gold_ore",
-		"count": 8
-	}
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_chestplate"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gold_ore",
+    "count": 8
+  }
 }

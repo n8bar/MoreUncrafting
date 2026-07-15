@@ -1,12 +1,12 @@
 {
-    "type": "crafting_shapeless",
-	"ingredients": [
-		{
-			"item": "minecraft:chainmail_chestplate"
-		}
-	],
-	"result": {
-		"item": "minecraft:leather",
-		"count": 8
-	}
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:chainmail_chestplate"
+    }
+  ],
+  "result": {
+    "item": "minecraft:leather",
+    "count": 8
+  }
 }

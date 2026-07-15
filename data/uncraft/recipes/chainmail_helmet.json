@@ -1,12 +1,12 @@
 {
-    "type": "crafting_shapeless",
-	"ingredients": [
-		{
-			"item": "minecraft:chainmail_helmet"
-		}
-	],
-	"result": {
-		"item": "minecraft:leather",
-		"count": 5
-	}
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:chainmail_helmet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:leather",
+    "count": 5
+  }
 }

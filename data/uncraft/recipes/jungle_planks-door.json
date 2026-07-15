@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:jungle_door"
+    }
+  ],
+  "result": {
+    "item": "minecraft:jungle_planks",
+    "count": 2
+  },
+  "group": "jungle_planks"
+}

@@ -1,9 +1,9 @@
 {
-    "type": "smelting",
-    "ingredient": {
-		"item": "minecraft:saddle"
-	},
-    "result": "minecraft:iron_ingot",
-    "experience": 1365,
-    "cookingtime": 60
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:saddle"
+  },
+  "result": "minecraft:iron_ingot",
+  "experience": 1365,
+  "cookingtime": 60
 }

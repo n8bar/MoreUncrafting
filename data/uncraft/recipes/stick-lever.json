@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:lever"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stick",
+    "count": 1
+  },
+  "group": "stick"
+}

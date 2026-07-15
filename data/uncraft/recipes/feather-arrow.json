@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:arrows"
+    },
+    {
+      "tag": "minecraft:arrows"
+    },
+    {
+      "tag": "minecraft:arrows"
+    },
+    {
+      "tag": "minecraft:arrows"
+    },
+    {
+      "tag": "minecraft:arrows"
+    },
+    {
+      "tag": "minecraft:arrows"
+    },
+    {
+      "tag": "minecraft:arrows"
+    },
+    {
+      "tag": "minecraft:arrows"
+    }
+  ],
+  "result": {
+    "item": "minecraft:feather",
+    "count": 2
+  }
+}

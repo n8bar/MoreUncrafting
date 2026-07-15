@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:armor_stand"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stick",
+    "count": 6
+  },
+  "group": "stick"
+}

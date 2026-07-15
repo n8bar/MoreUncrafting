@@ -1,13 +1,13 @@
-﻿{
-    "type": "crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:diorite_stairs"
-        }
-    ],
-    "result": {
-        "item": "minecraft:diorite_slab",
-        "count": 3
-    },
-    "group": "stone"
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:diorite_stairs"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diorite_slab",
+    "count": 3
+  },
+  "group": "stone"
 }

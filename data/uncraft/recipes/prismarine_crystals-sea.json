@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sea_lantern"
+    }
+  ],
+  "result": {
+    "item": "minecraft:prismarine_crystals",
+    "count": 5
+  },
+  "group": "prismarine_crystals"
+}

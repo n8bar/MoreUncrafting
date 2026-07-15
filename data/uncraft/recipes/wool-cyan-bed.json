@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cyan_bed"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cyan_wool",
+    "count": 3
+  },
+  "group": "uncraft-banner-bed-painting"
+}

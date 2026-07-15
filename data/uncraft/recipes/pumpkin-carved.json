@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#P#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:pumpkin_seeds"
+    },
+    "P": {
+      "item": "minecraft:carved_pumpkin"
+    }
+  },
+  "result": {
+    "item": "minecraft:pumpkin",
+    "count": 1
+  },
+  "group": "pumpkin"
+}

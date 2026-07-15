@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dropper"
+    }
+  ],
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 1
+  },
+  "group": "uncraft-redstone-stuffs"
+}

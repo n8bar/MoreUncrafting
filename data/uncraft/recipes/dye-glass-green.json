@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:green_stained_glass"
+    },
+    {
+      "item": "minecraft:green_stained_glass"
+    },
+    {
+      "item": "minecraft:green_stained_glass"
+    },
+    {
+      "item": "minecraft:green_stained_glass"
+    },
+    {
+      "item": "minecraft:green_stained_glass"
+    },
+    {
+      "item": "minecraft:green_stained_glass"
+    },
+    {
+      "item": "minecraft:green_stained_glass"
+    },
+    {
+      "item": "minecraft:green_stained_glass"
+    }
+  ],
+  "result": {
+    "item": "minecraft:green_dye",
+    "count": 1
+  },
+  "group": "uncraft-dye-stuffs"
+}

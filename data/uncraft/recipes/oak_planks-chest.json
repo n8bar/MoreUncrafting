@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "minecraft:oak_planks",
+    "count": 8
+  },
+  "group": "oak_planks"
+}

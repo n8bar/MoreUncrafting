@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:activator_rail"
+    },
+    {
+      "item": "minecraft:activator_rail"
+    },
+    {
+      "item": "minecraft:activator_rail"
+    },
+    {
+      "item": "minecraft:activator_rail"
+    },
+    {
+      "item": "minecraft:activator_rail"
+    },
+    {
+      "item": "minecraft:activator_rail"
+    }
+  ],
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 6
+  },
+  "group": "iron_ingot"
+}

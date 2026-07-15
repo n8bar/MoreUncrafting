@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:magenta_wool"
+    }
+  ],
+  "result": {
+    "item": "minecraft:magenta_dye",
+    "count": 1
+  },
+  "group": "uncraft-dye-stuffs"
+}

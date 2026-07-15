@@ -1,12 +1,12 @@
 {
-    "type": "crafting_shapeless",
-	"ingredients": [
-		{
-			"item": "minecraft:golden_helmet"
-		}
-	],
-	"result": {
-		"item": "minecraft:gold_ore",
-		"count": 5
-	}
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_helmet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gold_ore",
+    "count": 5
+  }
 }

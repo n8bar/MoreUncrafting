@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:anvil"
+    }
+  ],
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 31
+  },
+  "group": "iron_ingot"
+}

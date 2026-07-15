@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:firework_star"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gunpowder",
+    "count": 1
+  },
+  "group": "gunpowder"
+}

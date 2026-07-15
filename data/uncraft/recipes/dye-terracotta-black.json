@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:black_terracotta"
+    },
+    {
+      "item": "minecraft:black_terracotta"
+    },
+    {
+      "item": "minecraft:black_terracotta"
+    },
+    {
+      "item": "minecraft:black_terracotta"
+    },
+    {
+      "item": "minecraft:black_terracotta"
+    },
+    {
+      "item": "minecraft:black_terracotta"
+    },
+    {
+      "item": "minecraft:black_terracotta"
+    },
+    {
+      "item": "minecraft:black_terracotta"
+    }
+  ],
+  "result": {
+    "item": "minecraft:ink_sac",
+    "count": 1
+  },
+  "group": "uncraft-dye-stuffs"
+}

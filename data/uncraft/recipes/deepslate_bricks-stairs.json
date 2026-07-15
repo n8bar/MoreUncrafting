@@ -1,16 +1,16 @@
-﻿{
-    "type": "crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:deepslate_brick_stairs"
-        },
-        {
-            "item": "minecraft:deepslate_brick_stairs"
-        }
-    ],
-    "result": {
-        "item": "minecraft:deepslate_bricks",
-        "count": 3
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:deepslate_brick_stairs"
     },
-    "group": "deepslate_bricks"
+    {
+      "item": "minecraft:deepslate_brick_stairs"
+    }
+  ],
+  "result": {
+    "item": "minecraft:deepslate_bricks",
+    "count": 3
+  },
+  "group": "deepslate_bricks"
 }

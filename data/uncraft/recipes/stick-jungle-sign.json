@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:jungle_sign"
+    },
+    {
+      "item": "minecraft:jungle_sign"
+    },
+    {
+      "item": "minecraft:jungle_sign"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stick",
+    "count": 13
+  },
+  "group": "stick"
+}

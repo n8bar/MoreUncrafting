@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:daylight_detector"
+    }
+  ],
+  "result": {
+    "item": "minecraft:quartz",
+    "count": 3
+  },
+  "group": "quartz"
+}

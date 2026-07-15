@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:orange_wool"
+    }
+  ],
+  "result": {
+    "item": "minecraft:orange_dye",
+    "count": 1
+  },
+  "group": "uncraft-dye-stuffs"
+}

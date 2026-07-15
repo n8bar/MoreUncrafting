@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:purple_wool"
+    }
+  ],
+  "result": {
+    "item": "minecraft:purple_dye",
+    "count": 1
+  },
+  "group": "uncraft-dye-stuffs"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:mossy_stone_bricks"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stone_bricks",
+    "count": 1
+  },
+  "group": "stone_bricks"
+}

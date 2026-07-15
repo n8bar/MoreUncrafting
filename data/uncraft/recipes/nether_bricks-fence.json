@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_brick_fence"
+    }
+  ],
+  "result": {
+    "item": "minecraft:nether_bricks",
+    "count": 1
+  },
+  "group": "nether_bricks"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dark_oak_button"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dark_oak_planks",
+    "count": 1
+  },
+  "group": "dark_oak_planks"
+}

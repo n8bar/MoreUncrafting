@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:beetroot_soup"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bowl",
+    "count": 1
+  },
+  "group": "bowl"
+}
