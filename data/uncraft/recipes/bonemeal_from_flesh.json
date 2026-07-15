@@ -1,9 +1,0 @@
-{
-    "type": "smelting",
-    "ingredient": {
-        "item": "minecraft:rotten_flesh"
-    },
-    "result": "minecraft:bone_meal",
-    "experience": 175,
-    "cookingtime": 6
-}

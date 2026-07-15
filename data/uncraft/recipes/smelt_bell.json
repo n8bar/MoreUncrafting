@@ -1,9 +1,0 @@
-{
-    "type": "smelting",
-    "ingredient": {
-		"item": "minecraft:bell"
-	},
-    "result": "minecraft:gold_block",
-    "experience": 1365,
-    "cookingtime": 60
-}

@@ -1,9 +1,0 @@
-{
-    "type": "smelting",
-    "ingredient": {
-        "item": "minecraft:gold_nugget"
-    },
-    "result": "minecraft:gold_nugget",
-    "experience": 1365,
-    "cookingtime": 60
-}
