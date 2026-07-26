@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:brick"
+    }
+  ],
+  "result": {
+    "item": "minecraft:clay_ball",
+    "count": 1
+  },
+  "group": "clay_ball"
+}
